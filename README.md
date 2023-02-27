@@ -41,7 +41,7 @@ Actualmente estoy buscando nuevos deafíos como frontend developer, y estoy emoc
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/leandro-sendra-823581145/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
 	 <a style="margin-left: 10px;"  target="_blank" href="mailto:leandrosendra09@gmail.com">
-			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37jfJBsWVNaOPhydKzRPvauYTAm_DWo8HXwaej3muWQ&s" ></a>
+			<img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" ></a>
       </div>
 
 </p>
