@@ -9,24 +9,29 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-- :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
-- 🚚 CDN : https://cdn.jsdelivr.net/gh/zeeid/nama_repository/lokasi_file [*Without Branch name maybe] || repo@branch/location/
-<br>
+- ¡Hola! Soy Leandro, un apasionado de la tecnología y el diseño. Me he enfocado en el desarrollo frontend porque me encanta crear interfaces de usuario atractivas y fáciles de usar. Además, tengo conocimientos en desarrollo backend para poder crear aplicaciones web completas.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+Durante mi formación y experiencia, he adquirido habilidades en HTML, CSS y JavaScript, así como en frameworks como React y Vue.js. También tengo experiencia trabajando con herramientas como Git, lo que me permite desarrollar y colaborar de manera efectiva en equipos de desarrollo.
 
+Además, he trabajado con frameworks de CSS como Tailwind y librerías de componentes como Material UI, lo que me permite crear interfaces de usuario modernas y funcionales de manera más eficiente. También tengo experiencia en el diseño de interfaces con herramientas como Figma.
+
+Soy una persona curiosa y siempre estoy en busca de nuevos desafíos para seguir aprendiendo y mejorando mis habilidades. Me encanta trabajar en equipo y siempre estoy dispuesto a ayudar a mis compañeros de trabajo a resolver problemas y superar obstáculos.
+
+En mi tiempo libre, me gusta seguir aprendiendo sobre tecnología y diseño, leer blogs de programación y mantenerme actualizado con las últimas tendencias en la industria.
+
+Actualmente estoy buscando nuevos deafíos como frontend developer, y estoy emocionado por la oportunidad de aplicar mis habilidades y conocimientos en un entorno de trabajo real. Si estás buscando a alguien apasionado y comprometido, ¡no dudes en contactarme!
 
 <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h2 font-weight="bold">Herramientas que uso</h2>
 <table>
   <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="200"></td>
+      <td><img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
       <td><img src="https://camo.githubusercontent.com/91c7c8fed6e4e9ccbb25bc941030bc604ea787c09ca2569377ed4d4840872a73/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6a71756572792d372d313137353135322e706e67?raw=true" width="200"></td>
